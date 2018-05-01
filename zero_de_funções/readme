@@ -1,0 +1,4 @@
+Implementação de métodos para encontrar o zero de uma função, são eles:
+-Método da bisseção
+-Método de Newton-Raphson
+-Método de Halley
